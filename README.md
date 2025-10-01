@@ -1,5 +1,5 @@
 # GitHub Actions Fundamentals
-
+Git hub demo 
 Repo for the `GitHub Actions Fundamentals` training.
 
 ## 👉 Objectives
